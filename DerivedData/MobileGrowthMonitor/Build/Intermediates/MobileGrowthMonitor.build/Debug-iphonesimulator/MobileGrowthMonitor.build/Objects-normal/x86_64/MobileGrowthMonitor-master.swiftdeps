@@ -1,0 +1,18 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "8205adb87c75d2a41cbaa94e87006664"
+build_time: [544733812, 267123000]
+inputs:
+  "/Users/jacqueline/Documents/MobileGrowthMonitor/MobileGrowthMonitor/ProfileVC.swift": [543063903, 0]
+  "/Users/jacqueline/Documents/MobileGrowthMonitor/MobileGrowthMonitor/ViewController.swift": [542888879, 0]
+  "/Users/jacqueline/Documents/MobileGrowthMonitor/MobileGrowthMonitor/openCVViewController.swift": [544259557, 0]
+  "/Users/jacqueline/Documents/MobileGrowthMonitor/MobileGrowthMonitor/Kopfumfang.swift": [542796297, 0]
+  "/Users/jacqueline/Documents/MobileGrowthMonitor/MobileGrowthMonitor/Adipositas.swift": [542379900, 0]
+  "/Users/jacqueline/Documents/MobileGrowthMonitor/MobileGrowthMonitor/Jugendliche.swift": [542733463, 0]
+  "/Users/jacqueline/Documents/MobileGrowthMonitor/MobileGrowthMonitor/Babys.swift": [542379718, 0]
+  "/Users/jacqueline/Documents/MobileGrowthMonitor/MobileGrowthMonitor/FitandFun.swift": [542379945, 0]
+  "/Users/jacqueline/Documents/MobileGrowthMonitor/MobileGrowthMonitor/Kleinkinder.swift": [542379839, 0]
+  "/Users/jacqueline/Documents/MobileGrowthMonitor/PINVC.swift": [543919013, 0]
+  "/Users/jacqueline/Documents/MobileGrowthMonitor/MobileGrowthMonitor/GeneralVC.swift": [543063905, 0]
+  "/Users/jacqueline/Documents/MobileGrowthMonitor/MobileGrowthMonitor/Messung.swift": [542297874, 0]
+  "/Users/jacqueline/Documents/MobileGrowthMonitor/MobileGrowthMonitor/AppDelegate.swift": [542884871, 0]
+  "/Users/jacqueline/Documents/MobileGrowthMonitor/MobileGrowthMonitor/RatgeberVC.swift": [543065252, 0]
