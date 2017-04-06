@@ -32,11 +32,9 @@
 		4FBA77FD1E72F5EF00AFF623 /* head_circumference_girls.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FBA77FB1E72F5EF00AFF623 /* head_circumference_girls.png */; };
 		4FBA77FE1E72F5EF00AFF623 /* head_circumference_boys.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FBA77FC1E72F5EF00AFF623 /* head_circumference_boys.png */; };
 		4FBA78081E72FDBA00AFF623 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FBA78071E72FDBA00AFF623 /* Images.xcassets */; };
-		4FBA780A1E72FE8900AFF623 /* mgm_black.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FBA78091E72FE8900AFF623 /* mgm_black.png */; };
 		4FBA780C1E72FF0C00AFF623 /* startup.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FBA780B1E72FF0C00AFF623 /* startup.png */; };
 		4FBA780F1E73001300AFF623 /* launchscreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FBA780D1E73001300AFF623 /* launchscreen.storyboard */; };
 		4FCC14FA1E76B2EF00A6423C /* mgm_black in Resources */ = {isa = PBXBuildFile; fileRef = 4FCC14F91E76B2EF00A6423C /* mgm_black */; };
-		4FCFAFC11E8CE99300C4C97F /* opencv2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4FCFAFC01E8CE99300C4C97F /* opencv2.framework */; settings = {ATTRIBUTES = (Required, ); }; };
 		4FCFAFC51E8CEB5E00C4C97F /* openCVViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCFAFC41E8CEB5E00C4C97F /* openCVViewController.swift */; };
 		4FCFD7841E695FCB003E8695 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCFD7831E695FCB003E8695 /* AppDelegate.swift */; };
 		4FCFD7861E695FCB003E8695 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCFD7851E695FCB003E8695 /* ViewController.swift */; };
@@ -48,6 +46,21 @@
 		4FD5F67C1E7BEAFE00440E59 /* GeneralVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD5F67B1E7BEAFE00440E59 /* GeneralVC.swift */; };
 		4FD5F67E1E7BFA6000440E59 /* ProfileVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD5F67D1E7BFA6000440E59 /* ProfileVC.swift */; };
 		4FD5F6801E7BFFA400440E59 /* RatgeberVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD5F67F1E7BFFA400440E59 /* RatgeberVC.swift */; };
+		4FDEDBB81E9615C6003F58CF /* Kopfumfang.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FBA77F11E71986700AFF623 /* Kopfumfang.swift */; };
+		4FDEDBB91E9615C6003F58CF /* Kleinkinder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FBA77E91E718A3F00AFF623 /* Kleinkinder.swift */; };
+		4FDEDBBA1E9615C6003F58CF /* Adipositas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FBA77EB1E718A7C00AFF623 /* Adipositas.swift */; };
+		4FDEDBBB1E9615C6003F58CF /* FitandFun.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FBA77ED1E718AAA00AFF623 /* FitandFun.swift */; };
+		4FDEDBBC1E9615C6003F58CF /* Babys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FBA77E51E7189C700AFF623 /* Babys.swift */; };
+		4FDEDBBD1E9615C6003F58CF /* Jugendliche.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FBA77E71E7189E800AFF623 /* Jugendliche.swift */; };
+		4FDEDBBE1E9615D0003F58CF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCFD7831E695FCB003E8695 /* AppDelegate.swift */; };
+		4FDEDBBF1E9615D0003F58CF /* Messung.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FBA77D81E704A1300AFF623 /* Messung.swift */; };
+		4FDEDBC01E9615D0003F58CF /* GeneralVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD5F67B1E7BEAFE00440E59 /* GeneralVC.swift */; };
+		4FDEDBC11E9615D0003F58CF /* ProfileVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD5F67D1E7BFA6000440E59 /* ProfileVC.swift */; };
+		4FDEDBC21E9615D0003F58CF /* RatgeberVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD5F67F1E7BFFA400440E59 /* RatgeberVC.swift */; };
+		4FDEDBC31E9615D0003F58CF /* PINVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0F1D321E794E3F00F78A33 /* PINVC.swift */; };
+		4FDEDBC41E9615D0003F58CF /* openCVViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCFAFC41E8CEB5E00C4C97F /* openCVViewController.swift */; };
+		4FDEDBC51E9615D0003F58CF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCFD7851E695FCB003E8695 /* ViewController.swift */; };
+		4FDEDBC61E9615DA003F58CF /* DBManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FF04CE71E8E3BDD0005135E /* DBManager.m */; };
 		4FEC60621E6F032B0094FAED /* export-arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FEC605A1E6F032B0094FAED /* export-arrow.png */; };
 		4FEC60631E6F032B0094FAED /* photo-camera.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FEC605B1E6F032B0094FAED /* photo-camera.png */; };
 		4FEC60641E6F032B0094FAED /* ruler.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FEC605C1E6F032B0094FAED /* ruler.png */; };
@@ -127,6 +140,7 @@
 		4FD5F67B1E7BEAFE00440E59 /* GeneralVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GeneralVC.swift; sourceTree = "<group>"; };
 		4FD5F67D1E7BFA6000440E59 /* ProfileVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileVC.swift; sourceTree = "<group>"; };
 		4FD5F67F1E7BFFA400440E59 /* RatgeberVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatgeberVC.swift; sourceTree = "<group>"; };
+		4FDEDBC71E96178D003F58CF /* opencv-3.2.0 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "opencv-3.2.0"; path = "../../Desktop/opencv-3.2.0"; sourceTree = "<group>"; };
 		4FEC605A1E6F032B0094FAED /* export-arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "export-arrow.png"; sourceTree = "<group>"; };
 		4FEC605B1E6F032B0094FAED /* photo-camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "photo-camera.png"; sourceTree = "<group>"; };
 		4FEC605C1E6F032B0094FAED /* ruler.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ruler.png; sourceTree = "<group>"; };
@@ -147,7 +161,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				4FF04CE21E8E3A190005135E /* libsqlite3.tbd in Frameworks */,
-				4FCFAFC11E8CE99300C4C97F /* opencv2.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -201,6 +214,7 @@
 		4F4277DD1E88F66200347A0B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				4FDEDBC71E96178D003F58CF /* opencv-3.2.0 */,
 				4FF04CE11E8E3A190005135E /* libsqlite3.tbd */,
 				4FCFAFC01E8CE99300C4C97F /* opencv2.framework */,
 			);
@@ -266,6 +280,7 @@
 		4FCFD7821E695FCB003E8695 /* MobileGrowthMonitor */ = {
 			isa = PBXGroup;
 			children = (
+				4FDEDBC91E9617F6003F58CF /* openCV */,
 				4FF04CE51E8E3B160005135E /* database */,
 				4F4277DC1E88F20A00347A0B /* appSwift */,
 				4FBA77E41E704CE400AFF623 /* images */,
@@ -294,6 +309,13 @@
 				4FCFD7A51E695FCC003E8695 /* Info.plist */,
 			);
 			path = MobileGrowthMonitorUITests;
+			sourceTree = "<group>";
+		};
+		4FDEDBC91E9617F6003F58CF /* openCV */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = openCV;
 			sourceTree = "<group>";
 		};
 		4FF04CE51E8E3B160005135E /* database */ = {
@@ -369,7 +391,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0820;
-				LastUpgradeCheck = 0820;
+				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = "Jacqueline Franßen";
 				TargetAttributes = {
 					4FCFD77F1E695FCB003E8695 = {
@@ -440,7 +462,6 @@
 				4FBA77D51E70471800AFF623 /* email.png in Resources */,
 				4FBA780C1E72FF0C00AFF623 /* startup.png in Resources */,
 				4FCC14FA1E76B2EF00A6423C /* mgm_black in Resources */,
-				4FBA780A1E72FE8900AFF623 /* mgm_black.png in Resources */,
 				4FBA77E31E704CBA00AFF623 /* baby-with-diaper.png in Resources */,
 				4FBA77E11E704CBA00AFF623 /* biggerchild.png in Resources */,
 				4FBA780F1E73001300AFF623 /* launchscreen.storyboard in Resources */,
@@ -493,6 +514,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4FDEDBC61E9615DA003F58CF /* DBManager.m in Sources */,
+				4FDEDBBE1E9615D0003F58CF /* AppDelegate.swift in Sources */,
+				4FDEDBBF1E9615D0003F58CF /* Messung.swift in Sources */,
+				4FDEDBC01E9615D0003F58CF /* GeneralVC.swift in Sources */,
+				4FDEDBC11E9615D0003F58CF /* ProfileVC.swift in Sources */,
+				4FDEDBC21E9615D0003F58CF /* RatgeberVC.swift in Sources */,
+				4FDEDBC31E9615D0003F58CF /* PINVC.swift in Sources */,
+				4FDEDBC41E9615D0003F58CF /* openCVViewController.swift in Sources */,
+				4FDEDBC51E9615D0003F58CF /* ViewController.swift in Sources */,
+				4FDEDBB81E9615C6003F58CF /* Kopfumfang.swift in Sources */,
+				4FDEDBB91E9615C6003F58CF /* Kleinkinder.swift in Sources */,
+				4FDEDBBA1E9615C6003F58CF /* Adipositas.swift in Sources */,
+				4FDEDBBB1E9615C6003F58CF /* FitandFun.swift in Sources */,
+				4FDEDBBC1E9615C6003F58CF /* Babys.swift in Sources */,
+				4FDEDBBD1E9615C6003F58CF /* Jugendliche.swift in Sources */,
 				4FCFD7991E695FCB003E8695 /* MobileGrowthMonitorTests.swift in Sources */,
 				4F4277D31E87D9CB00347A0B /* UITest.swift in Sources */,
 			);
@@ -581,7 +617,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -625,7 +661,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
